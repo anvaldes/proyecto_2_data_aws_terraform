@@ -1,0 +1,6 @@
+region = "us-east-1"
+key_name = "mi-par-nuevo"
+s3_bucket = "proyecto-1-ml"
+emr_service_role = "EMR_DefaultRole"
+ec2_instance_profile = "EMR_EC2_DefaultRole"
+emr_autoscaling_role = "EMR_AutoScaling_DefaultRole"
